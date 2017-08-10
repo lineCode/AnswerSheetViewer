@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Answer Sheet Viewer</string>
+    <string name="BTN_PICK_PIC">选择图片</string>
+</resources>
