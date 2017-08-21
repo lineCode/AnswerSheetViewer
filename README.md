@@ -1,3 +1,3 @@
 # AnswerSheetViwer
-Android下的答题卡识别软件,
-目前尚处于学习阶段，仅能识别特定的图像，通用性差
+Android under the answer sheet identification software, still in the learning stage, can only identify a specific image, versatility is poor.
+Not finish yet(The code can not run)
